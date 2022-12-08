@@ -1,0 +1,9 @@
+#dir="bin/build"
+dir="builds"
+
+mkdir -p $dir
+
+cmake -S . -B $dir
+
+cd $dir
+make
