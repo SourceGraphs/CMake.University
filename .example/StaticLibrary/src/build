@@ -1,5 +1,5 @@
 #dir="bin/build"
-dir="build"
+dir="../build"
 
 mkdir -p $dir
 
