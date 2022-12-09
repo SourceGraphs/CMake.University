@@ -1,0 +1,3 @@
+[submodule "Book/Modern CMake for C++ - 2022/repo/Modern-CMake-for-Cpp"]
+	path = Book/Modern CMake for C++ - 2022/repo/Modern-CMake-for-Cpp
+	url = https://github.com/PacktPublishing/Modern-CMake-for-Cpp.git
