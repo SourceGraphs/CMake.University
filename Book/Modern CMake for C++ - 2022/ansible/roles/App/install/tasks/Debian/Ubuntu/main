@@ -1,0 +1,23 @@
+---
+- name: To get the most out of this book
+  ansible.builtin.apt:
+    pkg:
+    - clang-format
+    - clang-tidy
+    - cppcheck
+    - doxygen
+    - g++
+    - gawk
+    - git
+    - graphviz
+    - lcov
+    - libpqxx-dev
+    - libprotobuf-dev
+    - make
+    - pkg-config
+    - protobuf-compiler
+    - tree
+    - valgrind
+    - vim
+    - wget
+  become: true
