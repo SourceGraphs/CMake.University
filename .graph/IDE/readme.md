@@ -1,6 +1,7 @@
 # IDE Generators
-List:
+## List:
+To check which generators are available on your system, use the following command:  
 `cmake --help`
 
-generate IDE configs:
+# generate IDE config:
 `cmake -G <generator-name> <path-to-source>`
