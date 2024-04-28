@@ -15,4 +15,10 @@ type("CMake: Scan for Kits")
 // 2. Select a Kit
 openCommandPallet()
 type("CMake: Select a Kit")
+
+/* 3. Run project
+on bottom of VSCode the CMake Panel should be visible.
+Click "▶️" run button,
+which will show on hover "Launch the selected target in the terminal window".
+*/
 ```
