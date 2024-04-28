@@ -14,5 +14,5 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(fmt)
 
 
-add_executable(try main.cpp)
+add_executable(try main.cpp person.cpp)
 target_link_libraries(try PRIVATE fmt::fmt)
