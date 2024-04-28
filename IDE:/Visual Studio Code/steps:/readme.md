@@ -16,7 +16,13 @@ type("CMake: Scan for Kits")
 openCommandPallet()
 type("CMake: Select a Kit")
 
-// 3. Run project
+// 3. make CMake Status bar visible
+// Cmake › Options: Status Bar Visibility
+Click(Manage -> Settings) # on bottom left, Gear icon
+type("cmake status bar")
+drop_down( Cmake › Options: Status Bar Visibility, visible )
+
+// 4. Run project
 /*
 on bottom of VSCode the CMake Panel should be visible.
 Click "▶️" run button,
