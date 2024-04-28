@@ -1,1 +1,6 @@
-discuss: https://stackoverflow.com/questions/74395460/is-there-a-way-to-generate-a-customized-cmakelists-txt-from-vscodes-cmake-tools
+# Guide:
+https://code.visualstudio.com/docs/cpp/cmake-linux#_create-a-cmake-project
+
+
+discuss:
+- https://stackoverflow.com/questions/74395460/is-there-a-way-to-generate-a-customized-cmakelists-txt-from-vscodes-cmake-tools
