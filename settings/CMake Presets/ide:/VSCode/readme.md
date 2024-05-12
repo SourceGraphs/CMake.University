@@ -1,4 +1,7 @@
-sch: https://www.google.com/search?q=vscode+cmakepresets , 
+sch: https://www.google.com/search?q=vscode+cmakepresets , https://www.google.com/search?q=vscode+CMakePresets.json
+
+# Article:
+- https://learn.microsoft.com/en-us/cpp/build/cmake-presets-vs?view=msvc-170
 
 # Doc:
 - https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/cmake-presets.md
