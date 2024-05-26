@@ -1,5 +1,7 @@
-# Guide:
-https://code.visualstudio.com/docs/cpp/cmake-linux#_create-a-cmake-project
+# CMake Quickstart in VSCode
+fun: `generate( CmakeLists.txt )`
+
+Guide: https://code.visualstudio.com/docs/cpp/cmake-linux#_create-a-cmake-project
 
 >Create a CMake hello world project
 >The CMake Tools extension can create the files for a basic CMake project for you. Open the Command Palette (Ctrl+Shift+P) and run the CMake: Quick Start command:
