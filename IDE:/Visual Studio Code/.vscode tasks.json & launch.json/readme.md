@@ -61,6 +61,6 @@ https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/build.md#create-a
 https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/debug-launch.md
 
 ## Debug using a launch.json file
-_This is the config I want! makes top right "run" buttons work._
+_This is the config I want! makes top right "build & run" buttons work._
 
 https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/debug-launch.md#debug-using-a-launchjson-file
