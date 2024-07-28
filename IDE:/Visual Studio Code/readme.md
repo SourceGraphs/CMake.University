@@ -2,6 +2,8 @@ sch: https://www.google.com/search?q=vscode+cmake https://www.youtube.com/result
 
 # Doc:
 - https://code.visualstudio.com/docs/cpp/cmake-linux
+video:
+- [C++ in VS Code: Building your Code with CMake](https://youtu.be/_BWU5mWqVA4)
 
 ## Quickstart
 https://code.visualstudio.com/docs/cpp/cmake-quickstart
