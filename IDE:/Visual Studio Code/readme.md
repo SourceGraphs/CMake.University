@@ -20,3 +20,7 @@ The CMake configure process
 
 Debug and launch
 - https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/debug-launch.md
+
+
+# .vscode/tasks.json & launch.json files
+[my notes](https://github.com/SourceGraphs/CMake.University/blob/main/IDE:/Visual%20Studio%20Code/.vscode%20tasks.json%20&%20launch.json/readme.md)
